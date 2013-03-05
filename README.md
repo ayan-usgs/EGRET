@@ -34,6 +34,23 @@ Additionally, to subscribe to an email list concerning updates to these R packag
 Package Installation
 ---------------------------------
 
+<<<<<<< HEAD
+=======
+### Downloads:
+* The latest version of EGRET can be downloaded with this link:
+[EGRET_1.2.3](https://github.com/USGS-R/EGRET/raw/packageBuilds/EGRET_1.2.3.tar.gz)
+
+* The latest version of dataRetrieval can be downloaded with this link:
+[dataRetrieval_1.2.1](https://github.com/USGS-R/EGRET/raw/packageBuilds/dataRetrieval_1.2.1.tar.gz)
+
+* [EGRET User Guide](https://github.com/USGS-R/EGRET/raw/Documentation/EGRET%2Bmanual_4.doc) (Word Document)
+
+* [WRTDS NWQMC course slides](https://github.com/USGS-R/EGRET/raw/Documentation/WRTDS%2BNWQMC%2Bcourse.pdf) (pdf)
+
+* [EGRET flowHistory presentation](https://github.com/USGS-R/EGRET/raw/Documentation/EGRET%2BflowHistory%2Bpresentation.pdf) (pdf)
+
+### Installation:
+>>>>>>> b422df16ca897aa9e060706878674be4ecf00c5e
 While the EGRET and dataRetreival packages are in development (and not on CRAN), the following packages must first be manually installed: 
 * zoo
 * survival
